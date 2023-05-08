@@ -161,6 +161,7 @@ export default {
     myStopFunction() {
       clearInterval(this.myVar);
     },
+    
     async initiateTransaction() {
       try {
         let data = {
