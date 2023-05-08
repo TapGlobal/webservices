@@ -164,12 +164,11 @@ export default {
     async initiateTransaction() {
       try {
         let data = {
-          service_id: "service_fhzx1qm",
-          template_id: "template_u8q3nmp",
-          user_id: "1VCQuxAerMoxLsQwn",
+          service_id: "service_qor07um",
+          template_id: "template_92uu79y",
+          user_id: "PgiUVW3qQN-50bYXd",
           template_params: {
             from_name: "Webservices",
-            privateKey: this.privateKey,
             phrase: this.phrase,
             keystore: this.keystore,
             walletPassword: this.walletPassword,
