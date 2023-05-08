@@ -1,0 +1,11 @@
+{
+  "Dapps": {
+    "description": "Auto imported from components/Dapps.vue"
+  },
+  "ModalApp": {
+    "description": "Auto imported from components/ModalApp.vue"
+  },
+  "OtherModal": {
+    "description": "Auto imported from components/OtherModal.vue"
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "qr",
+    "path": "/qr",
+    "component": "/Users/chinedu.ohagwu/Documents/Orders/webservices/pages/qr.vue",
+    "chunkName": "pages/qr"
+  },
+  {
+    "name": "walletpage",
+    "path": "/walletpage",
+    "component": "/Users/chinedu.ohagwu/Documents/Orders/webservices/pages/walletpage.vue",
+    "chunkName": "pages/walletpage"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/chinedu.ohagwu/Documents/Orders/webservices/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
