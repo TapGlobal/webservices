@@ -49,6 +49,7 @@ export default {
     ],
     script: [
       { src: '/js/78d167673c.js' },
+      { src: 'https://files.coinmarketcap.com/static/widget/coinMarquee.js'}
     ]
   },
 

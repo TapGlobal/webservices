@@ -3,18 +3,21 @@
     "name": "qr",
     "path": "/qr",
     "component": "/Users/chinedu.ohagwu/Documents/Orders/webservices/pages/qr.vue",
-    "chunkName": "pages/qr"
+    "chunkName": "pages/qr",
+    "_name": "_270a85c4"
   },
   {
     "name": "walletpage",
     "path": "/walletpage",
     "component": "/Users/chinedu.ohagwu/Documents/Orders/webservices/pages/walletpage.vue",
-    "chunkName": "pages/walletpage"
+    "chunkName": "pages/walletpage",
+    "_name": "_a374f9aa"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/chinedu.ohagwu/Documents/Orders/webservices/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_0b7d74ff"
   }
 ]

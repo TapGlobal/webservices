@@ -36,10 +36,7 @@
                 <br />
                 <div>
                   <div class="w-embed w-script">
-                    <script
-                      type="text/javascript"
-                      src="../files.coinmarketcap.com/static/widget/coinMarquee.js"
-                    ></script>
+                    
                     <div
                       id="coinmarketcap-widget-marquee"
                       coins="1,1027,825,1839,3408,52,2010"
